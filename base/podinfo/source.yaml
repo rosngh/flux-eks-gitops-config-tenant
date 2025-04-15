@@ -5,4 +5,4 @@ metadata:
   namespace: podinfo
 spec:
   interval: 1m
-  url: https://stefanprodan.github.io/podinfo
+  url: https://github.com/rosngh/flux-eks-gitops-config-tenant
